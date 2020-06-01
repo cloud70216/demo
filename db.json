@@ -1,18 +1,9 @@
 {
-  "comments": [
-    {
-      "id": 1,
-      "body": "some comment",
-      "postId": 1
-    },
-    {
-      "id": 2,
-      "body": "some comment",
-      "postId": 1
-    }
-  ],
   "profile": {
     "name": "typicode"
+  },
+  "profile2": {
+    "name2": "typicode2"
   },
   "GetDetectedTagIdList":[{"4A4343504C00000000015769E200341401040301D10653C3"},{"4A4343504C00000000015769E200341401040301D10653C3"}]
 }
