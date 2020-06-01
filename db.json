@@ -31,6 +31,9 @@
   "profile2": {
     "name2": "typicode2"
   },
+  "profile3": {
+    "name3": "typicode3"
+  },
   "GetDetectedTagIdList": 
       [
       "4A4343504C00000000014996E200341401000301D1064730",
